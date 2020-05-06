@@ -46,3 +46,64 @@ header {
   color: white;
   text-align: center;
 }
+
+.PROFILE {
+  padding: 0px 80px;
+  height: 500px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-top: 50px;
+}
+
+.SKILL {
+  padding: 0px 80px;
+  height: 500px;
+}
+
+.WORKS {
+  padding: 0px 80px;
+  height: 500px;
+}
+
+.CONTACT {
+  padding: 0px 80px 100px 80px;
+}
+
+.CONTACT input, textarea {
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  width: 20%;
+  font-size: 18px;
+  border: 1px solid #dee8ec
+}
+
+.contact-submit {
+  background: #2f5267;
+  color: #889eab;
+}
+
+footer {
+  height: 120px;
+  background: rgba(34, 49, 52, 0.9);
+  color: #fff;
+  padding: 40px;
+}
+
+.footer-left {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-right {
+  float: right;
+}
+
+.footer-right li{
+  margin: 20px;
+}
+
